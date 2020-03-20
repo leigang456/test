@@ -1,3 +1,3 @@
 <?php
-    $test = "just a text plaese ddont care about it!";
+    $test = "just a test plaese don't care about it!";
     echo $test;
